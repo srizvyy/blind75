@@ -27,4 +27,4 @@ def max_Profit(prices):
         sell += 1
     return max_profit
 
-print(max_Profit(arr1))
+# print(max_Profit(arr1))
